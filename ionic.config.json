@@ -1,0 +1,7 @@
+{
+  "name": "upm",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
